@@ -49,9 +49,14 @@ New ingress or service mesh deployment? Consider using Gateway API.
 Existing stable deployment? Learn concepts and plan for the future
 
 ## Demo
-working demo: [github.com/BuoyantIO/gateway-api-workshop](https://github.com/BuoyantIO/gateway-api-workshop)
-Demo time! (Tried but they moved too fast and I couldn't replicate it)
-https://github.com/BuoyantIO/faces-demo
+
+**WORKING DEMO**: [gateway-api-workshop](https://github.com/earlofhemsley/gateway-api-workshop/tree/main)
+
+Pay special attention to the installation instructions. Get all of the dependencies installed.
+
+Demo time! 
+
+faces demo repository ... https://github.com/BuoyantIO/faces-demo
 
 ## Gateway API and Gamma
 
